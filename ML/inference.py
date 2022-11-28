@@ -1,4 +1,3 @@
-import tensorflow as tf
 from model import Model
 from preprocessing import Preprocessing
 
